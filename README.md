@@ -63,11 +63,11 @@ For detailed results and visualizations, please refer to the report in the `repo
 
 ```
 📦 Project Folder
-├── 📁 data/
+├── 📁 Dataset/
 │   └── Admission_Predict.csv         # Dataset used for analysis
 │   └── train.csv                     # Dataset used for model training and model seleciton
 │   └── test.csv                      # Dataset used for model test
-├── 📁 code/
+├── 📁 Code/
 │   ├── EDA.R                         # R scripts for data analysis
 │   └── Admission_Prediction.ipynb    # Python scripts for data analysis
 ├── 📄 final_report.pdf               # Detailed project report
