@@ -34,7 +34,7 @@ The dataset used in this project is sourced from the **2019 IEEE International C
 - **Research**: Research experience (1 = yes, 0 = no).
 - **Chance of Admit**: The predicted probability of admission.
 
-The dataset can be found in the `data/` directory of this repository. 📊
+The dataset can be found in the `Dataset/` directory of this repository. 📊
 
 ## 🧪 Analysis Methods
 
