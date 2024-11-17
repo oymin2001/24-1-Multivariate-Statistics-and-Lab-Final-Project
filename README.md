@@ -57,7 +57,7 @@ The final predictive model uses a two-factor score regression approach, consider
 - **GRE, TOEFL, and CGPA** have the strongest impact on admission chances.
 - The model provides actionable insights by evaluating both the quantitative (GRE, TOEFL, CGPA) and qualitative (SOP, LOR, University Rating) components of a candidate's profile.
 
-For detailed results and visualizations, please refer to the report in the `report/` directory. 📑
+For detailed results and visualizations, please refer to the report 📑다변량 팀프로젝트 보고서.pdf
 
 ## 📂 File Structure
 
@@ -70,7 +70,7 @@ For detailed results and visualizations, please refer to the report in the `repo
 ├── 📁 Code/
 │   ├── EDA.R                         # R scripts for data analysis
 │   └── Admission_Prediction.ipynb    # Python scripts for data analysis
-├── 📄 final_report.pdf               # Detailed project report
+├── 📄 다변량 팀프로젝트 보고서.pdf         # Detailed project report
 └── 📄 README.md                      # Project documentation
 ```
 
